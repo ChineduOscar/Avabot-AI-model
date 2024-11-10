@@ -1,0 +1,415 @@
+[
+    {
+        "name": "iPhone 12",
+        "price": "₦250,000",
+        "old_price": "₦280,000",
+        "description": "Apple iPhone 12 with 64GB storage and A14 Bionic chip.",
+        "specifications": {
+            "storage": "64GB",
+            "camera": "12MP dual-camera system",
+            "battery": "2815mAh",
+            "processor": "A14 Bionic chip",
+            "display": "6.1-inch Super Retina XDR display"
+        }
+    },
+    {
+        "name": "Samsung Galaxy S21",
+        "price": "₦220,000",
+        "old_price": "₦240,000",
+        "description": "Samsung Galaxy S21 with 128GB storage and Exynos 2100 processor.",
+        "specifications": {
+            "storage": "128GB",
+            "camera": "64MP triple-camera system",
+            "battery": "4000mAh",
+            "processor": "Exynos 2100",
+            "display": "6.2-inch Dynamic AMOLED display"
+        }
+    },
+    {
+        "name": "Infinix Hot 10",
+        "price": "₦70,000",
+        "old_price": "₦85,000",
+        "description": "Infinix Hot 10 with 64GB storage and Helio G70 processor.",
+        "specifications": {
+            "storage": "64GB",
+            "camera": "16MP quad-camera system",
+            "battery": "5200mAh",
+            "processor": "Helio G70",
+            "display": "6.78-inch HD+ display"
+        }
+    },
+    {
+        "name": "HP Pavilion 15",
+        "price": "₦300,000",
+        "old_price": "₦350,000",
+        "description": "HP Pavilion 15 with Intel Core i5 and 8GB RAM, suitable for multitasking.",
+        "specifications": {
+            "storage": "256GB SSD",
+            "RAM": "8GB",
+            "processor": "Intel Core i5",
+            "display": "15.6-inch Full HD",
+            "battery": "41Wh"
+        }
+    },
+    {
+        "name": "MacBook Air M1",
+        "price": "₦450,000",
+        "old_price": "₦500,000",
+        "description": "Apple MacBook Air with the powerful M1 chip and 256GB storage.",
+        "specifications": {
+            "storage": "256GB SSD",
+            "RAM": "8GB",
+            "processor": "Apple M1",
+            "display": "13.3-inch Retina",
+            "battery": "Up to 18 hours"
+        }
+    },
+    {
+        "name": "Sony WH-1000XM4",
+        "price": "₦120,000",
+        "old_price": "₦150,000",
+        "description": "Sony WH-1000XM4 noise-canceling headphones with long battery life.",
+        "specifications": {
+            "type": "Over-ear",
+            "battery": "30 hours",
+            "features": "Active noise cancellation",
+            "connectivity": "Bluetooth 5.0"
+        }
+    },
+    {
+        "name": "Samsung Galaxy Watch 4",
+        "price": "₦90,000",
+        "old_price": "₦110,000",
+        "description": "Samsung Galaxy Watch 4 with fitness tracking and ECG monitoring.",
+        "specifications": {
+            "size": "44mm",
+            "battery": "361mAh",
+            "features": "ECG, fitness tracking",
+            "connectivity": "Bluetooth 5.0, Wi-Fi"
+        }
+    },
+    {
+        "name": "Canon EOS M50",
+        "price": "₦320,000",
+        "old_price": "₦360,000",
+        "description": "Canon EOS M50 mirrorless camera with 24.1MP sensor and 4K video.",
+        "specifications": {
+            "sensor": "24.1MP APS-C CMOS",
+            "lens": "EF-M 15-45mm",
+            "video": "4K UHD",
+            "connectivity": "Wi-Fi, Bluetooth"
+        }
+    },
+    {
+        "name": "PlayStation 5",
+        "price": "₦400,000",
+        "old_price": "₦450,000",
+        "description": "Sony PlayStation 5 console with ultra-fast SSD and immersive gaming.",
+        "specifications": {
+            "storage": "825GB SSD",
+            "resolution": "4K gaming",
+            "features": "Ray tracing, haptic feedback",
+            "processor": "AMD Ryzen Zen 2"
+        }
+    },
+    {
+        "name": "iPad Air (2022)",
+        "price": "₦220,000",
+        "old_price": "₦250,000",
+        "description": "Apple iPad Air with A14 Bionic chip, perfect for creative tasks.",
+        "specifications": {
+            "storage": "64GB",
+            "processor": "A14 Bionic chip",
+            "display": "10.9-inch Liquid Retina",
+            "battery": "10 hours"
+        }
+    },
+    {
+        "name": "Dell Inspiron 14",
+        "price": "₦250,000",
+        "old_price": "₦300,000",
+        "description": "Dell Inspiron 14 laptop with Intel Core i5, ideal for work and play.",
+        "specifications": {
+            "storage": "512GB SSD",
+            "RAM": "8GB",
+            "processor": "Intel Core i5",
+            "display": "14-inch Full HD"
+        }
+    },
+    {
+        "name": "Tecno Spark 8",
+        "price": "₦55,000",
+        "old_price": "₦60,000",
+        "description": "Tecno Spark 8 with 64GB storage and affordable price.",
+        "specifications": {
+            "storage": "64GB",
+            "camera": "16MP dual-camera",
+            "battery": "5000mAh",
+            "processor": "Helio A25",
+            "display": "6.5-inch HD+ display"
+        }
+    },
+    {
+        "name": "Xiaomi Redmi Note 10",
+        "price": "₦90,000",
+        "old_price": "₦105,000",
+        "description": "Xiaomi Redmi Note 10 with 128GB storage and 48MP camera.",
+        "specifications": {
+            "storage": "128GB",
+            "camera": "48MP quad-camera",
+            "battery": "5000mAh",
+            "processor": "Snapdragon 678",
+            "display": "6.43-inch AMOLED display"
+        }
+    },
+    {
+        "name": "Apple Watch SE",
+        "price": "₦150,000",
+        "old_price": "₦180,000",
+        "description": "Apple Watch SE with fitness tracking and heart rate monitor.",
+        "specifications": {
+            "size": "40mm",
+            "battery": "18 hours",
+            "features": "Fitness tracking, heart rate monitor",
+            "connectivity": "Bluetooth, Wi-Fi"
+        }
+    },
+    {
+        "name": "Samsung QLED TV 55 Inch",
+        "price": "₦450,000",
+        "old_price": "₦500,000",
+        "description": "Samsung 55-inch QLED 4K TV with vivid colors and smart features.",
+        "specifications": {
+            "resolution": "4K UHD",
+            "size": "55 inches",
+            "features": "Quantum Dot technology, HDR",
+            "smart_features": "Yes"
+        }
+    },
+    {
+        "name": "Huawei FreeBuds 4i",
+        "price": "₦45,000",
+        "old_price": "₦50,000",
+        "description": "Huawei FreeBuds 4i wireless earbuds with noise cancellation.",
+        "specifications": {
+            "battery": "10 hours",
+            "features": "Active noise cancellation",
+            "connectivity": "Bluetooth 5.2"
+        }
+    },
+    {
+        "name": "Anker PowerCore 10000mAh",
+        "price": "₦10,000",
+        "old_price": "₦12,000",
+        "description": "Anker PowerCore portable charger with 10000mAh battery capacity.",
+        "specifications": {
+            "capacity": "10000mAh",
+            "ports": "2 USB-A",
+            "features": "High-speed charging"
+        }
+    },
+    {
+        "name": "Microsoft Surface Pro 7",
+        "price": "₦500,000",
+        "old_price": "₦550,000",
+        "description": "Microsoft Surface Pro 7 with Intel Core i5, detachable design.",
+        "specifications": {
+            "storage": "256GB SSD",
+            "RAM": "8GB",
+            "processor": "Intel Core i5",
+            "display": "12.3-inch PixelSense"
+        }
+    },
+        {
+        "name": "Oppo Reno5",
+        "price": "₦150,000",
+        "old_price": "₦180,000",
+        "description": "Oppo Reno5 with 128GB storage, AI-enhanced camera, and 33W fast charging.",
+        "specifications": {
+            "storage": "128GB",
+            "camera": "64MP quad-camera",
+            "battery": "4310mAh",
+            "processor": "Snapdragon 720G",
+            "display": "6.43-inch AMOLED"
+        }
+    },
+    {
+        "name": "Nokia 5.4",
+        "price": "₦85,000",
+        "old_price": "₦100,000",
+        "description": "Nokia 5.4 with 64GB storage, quad-camera setup, and 4000mAh battery.",
+        "specifications": {
+            "storage": "64GB",
+            "camera": "48MP quad-camera",
+            "battery": "4000mAh",
+            "processor": "Snapdragon 662",
+            "display": "6.39-inch IPS LCD"
+        }
+    },
+    {
+        "name": "Lenovo Tab M10 Plus",
+        "price": "₦95,000",
+        "old_price": "₦120,000",
+        "description": "Lenovo Tab M10 Plus tablet with 64GB storage and 10.3-inch Full HD display.",
+        "specifications": {
+            "storage": "64GB",
+            "camera": "8MP",
+            "battery": "5000mAh",
+            "processor": "Helio P22T",
+            "display": "10.3-inch Full HD"
+        }
+    },
+    {
+        "name": "Xiaomi Mi Band 6",
+        "price": "₦20,000",
+        "old_price": "₦25,000",
+        "description": "Xiaomi Mi Band 6 with 1.56-inch AMOLED display and 14-day battery life.",
+        "specifications": {
+            "battery": "14 days",
+            "features": "Heart rate monitoring, SpO2 sensor, fitness tracking",
+            "connectivity": "Bluetooth 5.0"
+        }
+    },
+    {
+        "name": "Sony Xperia 1 II",
+        "price": "₦380,000",
+        "old_price": "₦420,000",
+        "description": "Sony Xperia 1 II with 256GB storage and 8K video recording.",
+        "specifications": {
+            "storage": "256GB",
+            "camera": "12MP triple-camera system",
+            "battery": "4000mAh",
+            "processor": "Snapdragon 865",
+            "display": "6.5-inch OLED 4K"
+        }
+    },
+    {
+        "name": "Google Pixel 5",
+        "price": "₦260,000",
+        "old_price": "₦280,000",
+        "description": "Google Pixel 5 with 128GB storage, 5G connectivity, and great camera performance.",
+        "specifications": {
+            "storage": "128GB",
+            "camera": "12.2MP dual-camera",
+            "battery": "4080mAh",
+            "processor": "Snapdragon 765G",
+            "display": "6-inch OLED"
+        }
+    },
+    {
+        "name": "Realme 8 Pro",
+        "price": "₦130,000",
+        "old_price": "₦150,000",
+        "description": "Realme 8 Pro with 128GB storage, 108MP camera, and Snapdragon 720G.",
+        "specifications": {
+            "storage": "128GB",
+            "camera": "108MP quad-camera",
+            "battery": "4500mAh",
+            "processor": "Snapdragon 720G",
+            "display": "6.4-inch Super AMOLED"
+        }
+    },
+    {
+        "name": "Huawei Mate 40 Pro",
+        "price": "₦550,000",
+        "old_price": "₦600,000",
+        "description": "Huawei Mate 40 Pro with 256GB storage, 50MP camera, and Kirin 9000 processor.",
+        "specifications": {
+            "storage": "256GB",
+            "camera": "50MP quad-camera",
+            "battery": "4400mAh",
+            "processor": "Kirin 9000",
+            "display": "6.76-inch OLED"
+        }
+    },
+    {
+        "name": "Acer Aspire 5",
+        "price": "₦170,000",
+        "old_price": "₦200,000",
+        "description": "Acer Aspire 5 laptop with Intel Core i5, 8GB RAM, and 512GB SSD.",
+        "specifications": {
+            "storage": "512GB SSD",
+            "RAM": "8GB",
+            "processor": "Intel Core i5",
+            "display": "15.6-inch Full HD",
+            "battery": "48Wh"
+        }
+    },
+    {
+        "name": "Asus ROG Strix G15",
+        "price": "₦480,000",
+        "old_price": "₦500,000",
+        "description": "Asus ROG Strix G15 gaming laptop with Ryzen 7 and 16GB RAM.",
+        "specifications": {
+            "storage": "512GB SSD",
+            "RAM": "16GB",
+            "processor": "AMD Ryzen 7 5800H",
+            "display": "15.6-inch Full HD 144Hz",
+            "battery": "66Wh"
+        }
+    },
+    {
+        "name": "Samsung Galaxy Tab S7",
+        "price": "₦300,000",
+        "old_price": "₦330,000",
+        "description": "Samsung Galaxy Tab S7 with 128GB storage and 11-inch display.",
+        "specifications": {
+            "storage": "128GB",
+            "camera": "13MP",
+            "battery": "8000mAh",
+            "processor": "Snapdragon 865+",
+            "display": "11-inch LTPS TFT"
+        }
+    },
+    {
+        "name": "JBL Flip 5",
+        "price": "₦50,000",
+        "old_price": "₦60,000",
+        "description": "JBL Flip 5 portable Bluetooth speaker with IPX7 waterproof rating.",
+        "specifications": {
+            "battery": "12 hours",
+            "connectivity": "Bluetooth",
+            "features": "Waterproof, bass radiators"
+        }
+    },
+    {
+        "name": "Oppo A74",
+        "price": "₦130,000",
+        "old_price": "₦150,000",
+        "description": "Oppo A74 with 128GB storage, Snapdragon 662, and 5000mAh battery.",
+        "specifications": {
+            "storage": "128GB",
+            "camera": "48MP triple-camera",
+            "battery": "5000mAh",
+            "processor": "Snapdragon 662",
+            "display": "6.43-inch AMOLED"
+        }
+    },
+    {
+        "name": "Vivo Y20s",
+        "price": "₦85,000",
+        "old_price": "₦95,000",
+        "description": "Vivo Y20s with 128GB storage and Snapdragon 460 processor.",
+        "specifications": {
+            "storage": "128GB",
+            "camera": "13MP dual-camera",
+            "battery": "5000mAh",
+            "processor": "Snapdragon 460",
+            "display": "6.51-inch IPS LCD"
+        }
+    },
+    {
+        "name": "Xiaomi Redmi 9C",
+        "price": "₦60,000",
+        "old_price": "₦70,000",
+        "description": "Xiaomi Redmi 9C with 64GB storage and MediaTek Helio G35 processor.",
+        "specifications": {
+            "storage": "64GB",
+            "camera": "13MP triple-camera",
+            "battery": "5000mAh",
+            "processor": "MediaTek Helio G35",
+            "display": "6.53-inch HD+"
+        }
+    }
+]
+
